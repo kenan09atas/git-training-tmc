@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_15AagTx_Eeq1f4-Nr8EV-Q" label="TMC_GIT" description="Studio preoject linked to Git" language="java" technicalLabel="TMC_GIT" author="_15Aagjx_Eeq1f4-Nr8EV-Q" productVersion="Talend Cloud API Services Platform-7.2.1.20190620_1446" url="{&quot;location&quot;:&quot;https://github.com/kenan09atas/git-training-tmc&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_2UIQQDx_Eeq1f4-Nr8EV-Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_15Aagjx_Eeq1f4-Nr8EV-Q" login="kenan.atas@trial13863.eu.talend.com" firstName="Kenan" lastName="Atas" type="DQ"/>
+</xmi:XMI>
